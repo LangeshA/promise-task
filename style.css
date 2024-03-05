@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@500&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/dark-geometric.png");
+}
+.imagestyle {
+  border-radius: 10px;
+  height: 17vw;
+  width: 17vw;
+  margin: 10px;
+}
+.buttonstyle {
+  border: none;
+  border-radius: 10px;
+  background-color: black;
+  padding: 5px;
+  margin: 10px;
+  width: 120px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+p {
+  padding: 5px;
+  margin: 5px;
+}
+h6 {
+  padding: 5px;
+  margin: 5px;
+}
+.cardstyle{
+  height: 500px;
+}
+.cardstyle1{
+  height: 340px;
+}
+
+.navbar {
+  background-color: black; 
+}
+.navbar-brand, .nav-link {
+  color: #fff !important; 
+}
+.nav-link:hover {
+  color: #c2c8ce !important;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff; 
+}
+.nav-item.active .nav-link {
+  color: #e74c3c !important; 
+}
+.navbar-nav {
+  padding-right: 15px;
+}
+.navbar-brand {
+  margin-right: 15px;
+}
+h2{
+  font-weight: bolder;
+}
+.flagimage{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
